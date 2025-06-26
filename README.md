@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F0F6FC&section=header">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Olá,+eu+sou+a+Mariana+Marrão!+Seja+bem+vindo(a)+ao+meu+GitHub!">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Olá,+eu+sou+a+Mariana+Marrão!+Seja+bem+vindo+ao+meu+GitHub!">
 <details>
   <summary><h3>Sobre mim</h3></summary>
   <p>Desde sempre, eu gosto de tecnologia e de aprender coisas novas. Hoje, estudo na Germinare TECH, onde estou aprendendo diversas coisas para no futuro, me tornar uma engenheira de software.
