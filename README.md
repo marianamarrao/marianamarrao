@@ -7,7 +7,8 @@
 <details>
   <summary><h3>Tecnologias e Ferramentas </h3></summary>
   <div style="display: inline-block>
-    <img width=80px src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="java" />
+    <img width=80px src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="java"/>
+    <img width=80px src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="java"/>
     <img width=80px src="https://img.icons8.com/ios_filled/200/FFFFFF/python.png" alt="python"/>
     <img width=80px src="https://img.icons8.com/m_rounded/512/FFFFFF/html-5.png" alt="html"/>
     <img width=80px src="https://www.shareicon.net/data/512x512/2015/08/31/93779_css3_512x512.png" alt="css"/>
