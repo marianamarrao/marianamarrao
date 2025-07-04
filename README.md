@@ -5,7 +5,7 @@
   <p>Sou aluna na Germinare TECH, onde desenvolvo habilidades em back-end, front-end e banco de dados.</p>
 </details>
 <details>
-  <summary><h3>Tecnologias e Ferramentas </h3></summary>
+  <summary><h3>Capacidades técnicas </h3></summary>
   <div style="display: inline-block>
     <img width=80px src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="java"/>
     <img width=80px src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="java"/>
