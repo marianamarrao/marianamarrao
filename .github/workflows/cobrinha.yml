@@ -2,14 +2,11 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
-
-  workflow_dispatch:
-  
+    - cron: "0 0 * * *"  C
+  workflow_dispatch:       
   push:
     branches:
-    - main
-    
+      - main           
 
 jobs:
   generate:
