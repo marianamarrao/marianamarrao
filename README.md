@@ -3,7 +3,6 @@
 <details>
   <summary><h3>Sobre mim</h3></summary>
   <p>Sou aluna na Germinare TECH, onde desenvolvo habilidades em back-end, front-end e banco de dados.</p>
-  <img src="./github_stats.svg"/>
 </details>
 <details>
   <summary><h3>Capacidades técnicas </h3></summary>
